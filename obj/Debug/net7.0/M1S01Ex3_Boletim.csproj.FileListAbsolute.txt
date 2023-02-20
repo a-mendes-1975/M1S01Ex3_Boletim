@@ -1,0 +1,15 @@
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.csproj.AssemblyReference.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.AssemblyInfoInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.AssemblyInfo.cs
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.csproj.CoreCompileInputs.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\bin\Debug\net7.0\M1S01Ex3_Boletim.exe
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\bin\Debug\net7.0\M1S01Ex3_Boletim.deps.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\bin\Debug\net7.0\M1S01Ex3_Boletim.runtimeconfig.json
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\bin\Debug\net7.0\M1S01Ex3_Boletim.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\bin\Debug\net7.0\M1S01Ex3_Boletim.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\refint\M1S01Ex3_Boletim.dll
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.pdb
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\M1S01Ex3_Boletim.genruntimeconfig.cache
+G:\Meu Drive\AIX_Cursos\FloripaTech\FULL_STACK\SEMANA 1\M1S01Ex3_Boletim\obj\Debug\net7.0\ref\M1S01Ex3_Boletim.dll
